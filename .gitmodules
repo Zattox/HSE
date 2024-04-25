@@ -1,0 +1,21 @@
+[submodule "Year-1_Module-2_KDZ-1_Csharp"]
+	path = Year-1_Module-2_KDZ-1_Csharp
+	url = https://github.com/Zattox/Year-1_Module-2_KDZ-1_Csharp
+[submodule "Year-1_Module-2_KDZ-2_Csharp"]
+	path = Year-1_Module-2_KDZ-2_Csharp
+	url = https://github.com/Zattox/Year-1_Module-2_KDZ-2_Csharp
+[submodule "Year-1_Module-2_KDZ-3_Csharp"]
+	path = Year-1_Module-2_KDZ-3_Csharp
+	url = https://github.com/Zattox/Year-1_Module-2_KDZ-3_Csharp
+[submodule "Year-1_Module-3_KDZ-1_Csharp"]
+	path = Year-1_Module-3_KDZ-1_Csharp
+	url = https://github.com/Zattox/Year-1_Module-3_KDZ-1_Csharp
+[submodule "Year-1_Module-3_KDZ-2_Csharp"]
+	path = Year-1_Module-3_KDZ-2_Csharp
+	url = https://github.com/Zattox/Year-1_Module-3_KDZ-2_Csharp
+[submodule "Year-1_Module-3_KDZ-3_Csharp"]
+	path = Year-1_Module-3_KDZ-3_Csharp
+	url = https://github.com/Zattox/Year-1_Module-3_KDZ-3_Csharp
+[submodule "Year-1_Module-4_HomeworkContests_Cplusplus"]
+	path = Year-1_Module-4_HomeworkContests_Cplusplus
+	url = https://github.com/Zattox/Year-1_Module-4_HomeworkContests_Cplusplus
